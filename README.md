@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Dubey</h1>
-- 🔭 I’m currently pursuing **B.Tech**
+- 🔭 I’m currently pursuing B.Tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

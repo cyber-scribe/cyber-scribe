@@ -1,8 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-scribe&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-scribe" /> </p>
-
+<h1 align="center">Hi 👋, I'm Vaidehi Dubey</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber-scribe" alt="cyber-scribe" /></a> </p>
 
-<h1 align="center">Hi 👋, I'm Vaidehi Dubey</h1>
 - 🔭 I’m currently pursuing B.Tech
 
 <h3 align="left">Connect with me:</h3>

@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.hackerrank.com/puzzlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puzzlr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/puzzlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puzzlr" height="30" width="40" /></a>
-<a href=”https://www.linkedin.com/in/vaidehidubey/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/vaidehidubey/"><img align=”left” src=”https://raw.githubusercontent.com/cyber-scribe/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

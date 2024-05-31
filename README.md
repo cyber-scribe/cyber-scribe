@@ -1,8 +1,8 @@
-/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-scribe&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-scribe" /> </p>
 <h1 align="center">Hi 👋, I'm Vaidehi Dubey</h1>
 
 # 💫 About Me:
 - 🔭 I’m currently pursuing B.Tech
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-scribe&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-scribe" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vaidehii_dubey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaidehidubey/) 
@@ -16,7 +16,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cyber-scribe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=cyber-scribe&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

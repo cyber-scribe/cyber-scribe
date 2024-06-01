@@ -5,6 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-scribe&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-scribe" /> </p>
 
 ## 🌐 Socials:
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/vaidehidubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaidehidubey" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21382785/dhruv-johri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21382785/dhruv-johri" height="30" width="40" /></a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaidehii_dubey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaidehidubey/) 
 <a href="https://www.hackerrank.com/puzzlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puzzlr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/puzzlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puzzlr" height="30" width="40" /></a>

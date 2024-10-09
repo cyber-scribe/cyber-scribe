@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Dubey</h1>
 
 # 💫 About Me:
-- 🔭 I’m currently pursuing B.Tech(IT)
+- 🔭 I’m currently in pre-final year of B.Tech(IT)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-scribe&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-scribe" /> </p>
 
 # 🌐 Socials:

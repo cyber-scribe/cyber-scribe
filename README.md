@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaidehi Dubey</h1>
+<h1 align="center">Heyy 👋, I'm Vaidehi Dubey</h1>
 
 # 💫 About Me:
 - 🔭 Currently, I’m in pre-final year of B.Tech(IT)

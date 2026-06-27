@@ -6,30 +6,31 @@
 
 # 🌐 Socials:
 <p align="left">
-  <a href="https://linkedin.com/in/vaidehidubey">
-    <img src="https://cdn.simpleicons.org/linkedin" width="28" height="28"/>
-  </a>
-  <a href="https://www.hackerrank.com/puzzlr">
-    <img src="https://cdn.simpleicons.org/hackerrank" width="28" height="28"/>
-  </a>
-  <a href="https://stackoverflow.com/users/23504077/vaidehi-dubey">
-    <img src="https://cdn.simpleicons.org/stackoverflow" width="28" height="28"/>
-  </a>
-  <a href="https://www.codechef.com/users/puzzlr">
-    <img src="https://cdn.simpleicons.org/codechef" width="28" height="28"/>
-  </a>
-  <a href="https://tryhackme.com/p/puzzlr">
-    <img src="https://cdn.simpleicons.org/tryhackme" width="28" height="28"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://cdn.simpleicons.org/leetcode" width="28" height="28"/>
+  <a href="https://linkedin.com/in/vaidehidubey" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/puzzlr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" alt="HackerRank"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://stackoverflow.com/users/23504077/vaidehi-dubey" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" alt="Stack Overflow"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/puzzlr" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef" height="30" alt="CodeChef"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://tryhackme.com/p/puzzlr" target="_blank">
+    <img src="https://cdn.simpleicons.org/tryhackme" height="30" alt="TryHackMe"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/puzzlr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" alt="LeetCode"/>
   </a>
 </p>
 
-<a href="https://tryhackme.com/p/puzzlr" target="blank">
-  <img src="https://cdn.simpleicons.org/tryhackme" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -50,7 +51,7 @@
 # 🏆 Achievements
 <p align="left">
   <a href="https://gssoc.girlscript.org/profile/86ff0aeb-264e-4a1a-933d-48bfca3af77a">
-    <img src="https://img.shields.io/badge/GSSoC'25-Contributor-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GSSoC_'26-Contributor-white?style=flat-square&logoColor=black">
   </a>
 </p>
 

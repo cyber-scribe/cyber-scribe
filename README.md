@@ -6,7 +6,11 @@
 
 # 🌐 Socials:
 <p style="white-space: nowrap , align: left">
-<a href="https://linkedin.com/in/vaidehidubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaidehidubey" height="30" width="40" /></a><a href="https://www.hackerrank.com/puzzlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puzzlr" height="30" width="40" /></a><a href="https://stackoverflow.com/users/23504077/vaidehi-dubey?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com" height="30" width="40" /></a><a href="https://www.codechef.com/users/puzzlr" target="blank"><img src="https://cdn.simpleicons.org/codechef" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaidehidubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaidehidubey" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/puzzlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puzzlr" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23504077/vaidehi-dubey?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/puzzlr" target="blank"><img src="https://cdn.simpleicons.org/codechef" height="30" width="40" /></a>
+<a href="https://gssoc.girlscript.org/profile/86ff0aeb-264e-4a1a-933d-48bfca3af77a" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=111036&format=png&color=000000" alt="GSSoC" height="30" width="40" /></a>
 </p>
 
 <a href="https://tryhackme.com/p/puzzlr" target="blank">
@@ -29,5 +33,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![GSSoC](https://img.shields.io/badge/GSSoC-View_Profile-blueviolet?style=flat-square)](https://gssoc.girlscript.org/profile/86ff0aeb-264e-4a1a-933d-48bfca3af77a)
 [![An image of @cyberscribe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyberscribe)](https://holopin.io/@cyberscribe)

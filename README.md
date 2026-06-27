@@ -29,4 +29,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GSSoC](https://img.shields.io/badge/GSSoC-View_Profile-blueviolet?style=flat-square)](https://gssoc.girlscript.org/profile/86ff0aeb-264e-4a1a-933d-48bfca3af77a)
 [![An image of @cyberscribe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyberscribe)](https://holopin.io/@cyberscribe)

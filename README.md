@@ -6,27 +6,27 @@
 
 # 🌐 Socials:
 <p align="left">
-  <a href="https://linkedin.com/in/vaidehidubey" target="_blank">
+  <a href="https://linkedin.com/in/vaidehidubey" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/puzzlr" target="_blank">
+  <a href="https://www.hackerrank.com/puzzlr" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" alt="HackerRank"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://stackoverflow.com/users/23504077/vaidehi-dubey" target="_blank">
+  <a href="https://stackoverflow.com/users/23504077/vaidehi-dubey" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" alt="Stack Overflow"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.codechef.com/users/puzzlr" target="_blank">
+  <a href="https://www.codechef.com/users/puzzlr" target="_blank" style="display:inline-block;">
     <img src="https://cdn.simpleicons.org/codechef" height="30" alt="CodeChef"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://tryhackme.com/p/puzzlr" target="_blank">
+  <a href="https://tryhackme.com/p/puzzlr" target="_blank" style="display:inline-block;">
     <img src="https://cdn.simpleicons.org/tryhackme" height="30" alt="TryHackMe"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/u/puzzlr/" target="_blank">
+  <a href="https://leetcode.com/u/puzzlr/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" alt="LeetCode"/>
   </a>
 </p>
@@ -51,8 +51,7 @@
 # 🏆 Achievements
 <p align="left">
   <a href="https://gssoc.girlscript.org/profile/86ff0aeb-264e-4a1a-933d-48bfca3af77a">
-<img src="https://img.shields.io/badge/GSSoC_'26-Contributor-white?style=flat-square&logoColor=black">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0D1117&text=GSSoC%20'26%20Contributor&fontColor=FFFFFF&fontSize=22&desc=GirlScript%20Summer%20of%20Code&descSize=13&descAlignY=70" /></a>
 </p>
 
 <p align="left">

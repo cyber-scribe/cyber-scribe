@@ -7,13 +7,13 @@
 # 🌐 Socials:
 <p align="left">
   <a href="https://linkedin.com/in/vaidehidubey" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/puzzlr" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" alt="HackerRank"/></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/23504077/vaidehi-dubey" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/puzzlr" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn"/></a><a href="https://www.hackerrank.com/puzzlr" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" alt="HackerRank"/></a><a href="https://stackoverflow.com/users/23504077/vaidehi-dubey" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" alt="Stack Overflow"/></a><a href="https://www.codechef.com/users/puzzlr" target="_blank" style="display:inline-block;">
     <img src="https://cdn.simpleicons.org/codechef" height="30" alt="CodeChef"/>
-  </a>&nbsp;&nbsp;&nbsp;<a href="https://tryhackme.com/p/puzzlr" target="_blank" style="display:inline-block;">
+  </a><a href="https://tryhackme.com/p/puzzlr" target="_blank" style="display:inline-block;">
     <img src="https://cdn.simpleicons.org/tryhackme" height="30" alt="TryHackMe"/>
-  </a>&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/puzzlr/" target="_blank" style="display:inline-block;">
+  </a><a href="https://leetcode.com/u/puzzlr/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" alt="LeetCode"/>
   </a>
 </p>
@@ -36,12 +36,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🏆 Achievements
-<p align="left">
-<a href="https://gssoc.girlscript.org/profile/86ff0aeb-264e-4a1a-933d-48bfca3af77a">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=75&color=gradient&customColorList=12,20&text=GSSoC%20'26&desc=Contributor&fontColor=ffffff&fontSize=28&descSize=16&animation=fadeIn"/>
-</a>
-</p>
-
 <p align="left">
   <a href="https://holopin.io/@cyberscribe">
     <img src="https://holopin.me/cyberscribe" alt="@cyberscribe's Holopin badges" />

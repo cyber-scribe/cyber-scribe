@@ -12,41 +12,31 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn"/>
       </a>
     </td>
-
     <td width="20"></td>
-
     <td align="center">
       <a href="https://www.hackerrank.com/puzzlr" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" alt="HackerRank"/>
       </a>
     </td>
-
     <td width="20"></td>
-
     <td align="center">
       <a href="https://stackoverflow.com/users/23504077/vaidehi-dubey" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" alt="Stack Overflow"/>
       </a>
     </td>
-
     <td width="20"></td>
-
     <td align="center">
       <a href="https://www.codechef.com/users/puzzlr" target="_blank">
         <img src="https://cdn.simpleicons.org/codechef" height="30" alt="CodeChef"/>
       </a>
     </td>
-
     <td width="20"></td>
-
     <td align="center">
       <a href="https://tryhackme.com/p/puzzlr" target="_blank">
         <img src="https://cdn.simpleicons.org/tryhackme" height="30" alt="TryHackMe"/>
       </a>
     </td>
-
     <td width="20"></td>
-
     <td align="center">
       <a href="https://leetcode.com/u/puzzlr/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" alt="LeetCode"/>

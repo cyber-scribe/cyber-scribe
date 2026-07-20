@@ -1,7 +1,7 @@
 <h1 align="center">Heyy 👋, I'm Vaidehi Dubey</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer.;Always+curious.;Always+improving."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer.;Always+curious.;Always+improving."/>
 </p>
 
 # 💫 About Me:
@@ -36,13 +36,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cyber-scribe&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-scribe&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔥 Contribution Graph

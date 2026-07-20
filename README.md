@@ -1,7 +1,14 @@
 <h1 align="center">Heyy 👋, I'm Vaidehi Dubey</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer.;Always+curious.;Always+improving."/>
+</p>
+
 # 💫 About Me:
-- 🔭 Currently, I’m in Final year of B.Tech(IT)
+- 🎓 B.Tech (IT) graduate
+- 💻 Interested in building reliable software across different domains
+- 💡 Whether it's building applications, solving DSA, or understanding infrastructure, I enjoy figuring things out
+- 🚀 Open to collaborating on impactful projects and open-source contributions
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-scribe&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-scribe" /> </p>
 
 # 🌐 Socials:
@@ -10,20 +17,38 @@
 </p>
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,python,js"/>
+</p>
+<h3 align="center">Frontend</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+</p>
+<h3 align="center">Backend</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+<h3 align="center">Tools</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cyber-scribe&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-scribe&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🔥 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-scribe&theme=react-dark"/>
+</p>
 
 # 🏆 Achievements
 <p align="left">

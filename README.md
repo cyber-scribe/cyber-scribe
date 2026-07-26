@@ -17,20 +17,20 @@
 </p>
 
 # 💻 Tech Stack:
-<h3 align="center">Programming Languages</h3>
-<p align="center">
+<h3 align="left">Programming Languages</h3>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=c,java,python,js"/>
 </p>
-<h3 align="center">Frontend</h3>
-<p align="center">
+<h3 align="left">Frontend</h3>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 </p>
-<h3 align="center">Backend</h3>
-<p align="center">
+<h3 align="left">Backend</h3>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
-<h3 align="center">Tools</h3>
-<p align="center">
+<h3 align="left">Tools</h3>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 

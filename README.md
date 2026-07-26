@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-scribe&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-scribe" /> </p>
 <h1 align="center">Heyy 👋, I'm Vaidehi Dubey</h1>
 
 <p align="center">
@@ -5,11 +6,11 @@
 </p>
 
 # 💫 About Me:
-- 🎓 B.Tech (IT) graduate
-- 💻 Interested in building reliable software across different domains
-- 💡 Whether it's building applications, solving DSA, or understanding infrastructure, I enjoy figuring things out
-- 🚀 Open to collaborating on impactful projects and open-source contributions
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-scribe&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-scribe" /> </p>
+- 🎓 B.Tech in Information Technology
+- 💻 Full Stack Developer with experience in React, Node.js, and Java
+- 🧩 Enjoy solving DSA problems and building scalable web applications
+- 🌱 Currently exploring backend architecture and cloud technologies
+- 🤝 Open to software engineering roles, open-source, and collaborative projects
 
 # 🌐 Socials:
 <p align="left">
@@ -35,8 +36,9 @@
 </p>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![](https://github-profile-trophy.vercel.app/?username=cyber-scribe&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-scribe&theme=tokyonight&hide_border=true"/>
 </p>

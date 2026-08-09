@@ -39,9 +39,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=cyber-scribe&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-scribe&theme=tokyonight&hide_border=true"/>
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-scribe&theme=tokyonight&hide_border=true"/></p>
 
 ## 🔥 Contribution Graph
 <p align="center">

@@ -42,9 +42,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-scribe&theme=tokyonight&hide_border=true"/></p>
 
 ## 🔥 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-scribe&theme=react-dark"/>
-</p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-scribe&theme=react-dark"/></p>
 
 # 🏆 Achievements
 <p align="left">
@@ -52,5 +50,3 @@
     <img src="https://holopin.me/cyberscribe" alt="@cyberscribe's Holopin badges" />
   </a>
 </p>
-
-

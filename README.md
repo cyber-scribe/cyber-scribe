@@ -45,8 +45,4 @@
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-scribe&theme=react-dark"/></p>
 
 # 🏆 Achievements
-<p align="left">
-  <a href="https://holopin.io/@cyberscribe">
-    <img src="https://holopin.me/cyberscribe" alt="@cyberscribe's Holopin badges" />
-  </a>
-</p>
+<p align="left"><a href="https://holopin.io/@cyberscribe"><img src="https://holopin.me/cyberscribe" alt="@cyberscribe's Holopin badges" /></a></p>

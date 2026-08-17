@@ -19,9 +19,7 @@
 
 # 💻 Tech Stack:
 <h3 align="left">Programming Languages</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,python,js"/>
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=c,java,python,js"/></p>
 <h3 align="left">Frontend</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>

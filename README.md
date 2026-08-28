@@ -10,7 +10,7 @@
 - 💻 Full Stack Developer with experience in React, Node.js, and Java
 - 🧩 Enjoy solving DSA problems and building scalable web applications
 - 🌱 Currently exploring backend architecture and cloud technologies
-- 🤝 Open to software engineering roles, open-source, and collaborative projects
+- 🤝 Open to software engineering roles, open-source, and collaborative projects.
 
 # 🌐 Socials:
 <p align="left">

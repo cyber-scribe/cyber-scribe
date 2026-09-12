@@ -39,8 +39,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-scribe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-scribe&theme=tokyonight&hide_border=true"/></p>
 
-## 🔥 Contribution Graph
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-scribe&theme=react-dark"/></p>
-
 # 🏆 Achievements
 <p align="left"><a href="https://holopin.io/@cyberscribe"><img src="https://holopin.me/cyberscribe" alt="@cyberscribe's Holopin badges"/></a></p>

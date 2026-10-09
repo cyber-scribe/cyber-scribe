@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-scribe&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-scribe" /></p>
-<h1 align="center">Heyy 👋, I'm Vaidehi Dubey</h1>
+<h1 align="center">Hey 👋, I'm Vaidehi Dubey</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer.;Always+curious.;Always+improving."/>

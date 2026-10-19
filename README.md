@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-- 🎓 B.Tech in Information Technology
+- 🎓 B.Tech in IT graduate
 - 💻 Full Stack Developer with experience in React, Node.js, and Java
 - 🧩 Enjoy solving DSA problems and building scalable web applications
 - 🌱 Currently exploring backend architecture and cloud technologies

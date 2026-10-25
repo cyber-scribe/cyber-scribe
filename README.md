@@ -24,7 +24,7 @@
 </p>
 <h3 align="left">Frontend</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,typescript"/>
 </p>
 <h3 align="left">Backend</h3>
 <p align="left">
